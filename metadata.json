@@ -1,0 +1,6 @@
+{
+  "name": "LogPulse - Analyseur de Logs Professionnel",
+  "description": "Plateforme professionnelle d'analyse, d'ingestion et d'observabilité de logs en temps réel avec diagnostic IA de pannes et détection d'anomalies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
